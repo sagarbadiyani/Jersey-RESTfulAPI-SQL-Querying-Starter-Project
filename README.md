@@ -1,4 +1,4 @@
-# Jersey-RESTfulAPI-SQL-Querying-Starter_Project
+# Jersey-RESTfulAPI-SQL-Querying-Starter-Project
 A simple SQL Querying Project using Jersey RESTful API
 
 JDBC has been used to connect with the MySQL Database.
